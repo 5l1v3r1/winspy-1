@@ -3,7 +3,7 @@
 ![shell](https://img.shields.io/badge/Shell-2.1-green.svg)
 ![GitHub version](https://img.shields.io/badge/winspy-1.0-orange.svg)
 ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
-<p align="center"><img src="https://i.gifer.com/4SHX.gif"></p>
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_uYv5YQJkyEc3lweWz7eT3iliMgwTJCpFNV2ERHN6FuiTmnlnQ&s"></p>
 <h4 align="center">
 winspy : Windows Reverse Shell Backdoor Creator With ip poisener
  </h4>
@@ -24,7 +24,7 @@ chmod +x winspy.sh
 ```
 # screenshot
 
-![winspy](https://i.gifer.com/4SHX.gif)
+![winspy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_uYv5YQJkyEc3lweWz7eT3iliMgwTJCpFNV2ERHN6FuiTmnlnQ&s)
 
 # Tested on :
 * BackBox Linux
